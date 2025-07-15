@@ -1,4 +1,4 @@
-## Hi there, welcom to my page 👾
+## Hi there, welcome to my page 👾
 ---
 
 ### My name is Dzmitry and I am tech guy who loves templates, configurations and any other declerative staff
