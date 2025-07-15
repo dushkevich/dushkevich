@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, welcom to my page 👾
+---
+
+### My name is Dzmitry and I am tech guy who loves templates, configurations and any other declerative staff
+
 
 <!--
 **dushkevich/dushkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
